@@ -36,6 +36,9 @@ fileID=
 
 ![fileid](https://raw.githubusercontent.com/zpok3/wabbajack-tips/main/imgs/wj_tips_fileID.webp)
 
+### ModDB and directURL
+Before you waste a bunch of time trying to figure out why your files from ModDB fail to download you should know that directURL doesn't work with the URL you get from copying the link the `Download Now` button leads to. It only works with one of the links from the mirror list you can access when you click the `Download Now` button, and those links eventually expire and your modlist will fail to install.
+
 ## Compilation Settings
 Just a quick overview of compilation settings and examples of where they'd be useful.
 
