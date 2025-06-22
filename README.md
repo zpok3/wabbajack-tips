@@ -29,7 +29,7 @@ fileID=
 
 3. You can find the `modID` by looking at the number at the end of the mod page's URL.
 
-![modid](https://raw.githubusercontent.com/zpok3/wabbajack-tips/raw/main/imgs/wj_tips_modID.webp)
+![modid](https://raw.githubusercontent.com/zpok3/wabbajack-tips/main/imgs/wj_tips_modID.webp)
 
 5. You can find `fileID` by right clicking the `Manual download` button and selecting `Open in new tab`. Switch to that tab, and the file ID will be located at the end of the URL.
 
