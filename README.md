@@ -12,8 +12,9 @@ So you might have noticed certain files on the Nexus do not have an option to do
 1. Place the file into the downloads folder for the MO2 instance.
 2. In MO2, right click the file in the downloads list and select `Query Info`.
 
+![query info](https://raw.githubusercontent.com/zpok3/wabbajack-tips/main/imgs/query-info-example.webp)
 > [!tip]
-> FNV/TTW MO2 instances can automatically query info for Fallout 3 Nexus files, same with FO3 MO2 instances and New Vegas Nexus files.
+> FNV/TTW MO2 instances can automatically query info for Fallout 3 Nexus files, same goes for FO3 MO2 instances and New Vegas Nexus files.
 
 ### Obtaining metadata for files from a Nexus that isn't the game that MO2 is managing
 You may have noticed the `Query Info` option is unable to automatically obtain metadata for files hosted on the Modding Tools Nexus or the Skyrim SE Nexus (e.g. [MO2 ModdingLinked Edition](https://www.nexusmods.com/site/mods/874) or [Root Builder](https://www.nexusmods.com/skyrimspecialedition/mods/31720)). It's pretty easy to configure it manually.
